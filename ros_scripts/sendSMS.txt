@@ -1,5 +1,5 @@
 :global sendSMS do={
-	# Send SMS messages via Huawei LTE modem APU (tested with  E3372)
+	# Send SMS messages via Huawei LTE modem API (tested with  E3372)
 	# global vars:
 	# 	lteIP - lte modem ip address (api)
 	# 	phone - sms destination phone number
